@@ -1,4 +1,3 @@
-#![feature(core_intrinsics, dbg_macro, drain_filter, exclusive_range_pattern)]
 
 pub mod gen_ir;
 pub mod gen_x86;
